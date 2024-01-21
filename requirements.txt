@@ -1,0 +1,8 @@
+langchain
+openai==0.28.1
+flask
+faiss-cpu
+libmagic
+unstructured
+tiktoken
+python-dotenv
